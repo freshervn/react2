@@ -1,0 +1,63 @@
+/* thiết lập chung */
+:root {
+    --theme-color-1-5: rgba(3, 3, 3, 0.5);
+    --theme-color-2: rgb(209, 8, 8);
+    --font-color: #333333;
+    --font-color-2: #555555;
+    --ultimate-gray: #939597;
+    --dark-charcoal: #333;
+    --color-alice: #f8f9fa;
+}
+$lightPink: rgb(249, 235, 214);
+$theme-color-2: --theme-color-1;
+$theme-color-1-5: --theme-color-1-5;
+$theme-color-1: rgb(249, 232, 51);
+$color-star: rgb(245, 155, 51);
+$font-color: #333333;
+$font-color-2: #555555;
+$font-color-3: hsl(0, 0%, 50%);
+$font-style: "Arial";
+$font-style-2: "Roboto";
+$ultimate-gray: #939597;
+$dark-charcoal: #333;
+$color-alice: #f8f9fa;
+
+$navbar-index: 99;
+body {
+    font-family: $font-style;
+    *::first-letter {
+        text-transform: uppercase;
+    }
+}
+p {
+    font-size: 16px;
+    @media screen and(max-width:567px) {
+        font-size: 12px;
+    }
+}
+h1 {
+    size: 36px;
+}
+h2 {
+    size: 24px;
+}
+h3 {
+    size: 20px;
+}
+h4,
+h5,
+h6 {
+    size: 16px;
+}
+a {
+    size: 18px;
+    &:hover {
+        color: #295fcc;
+        text-decoration: underline;
+    }
+}
+// @mixin minwidth {
+//     @media screen and (max-width:768px) {
+//         display: none;
+//     }
+// }

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="197px" height="30px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1 0 0 1 -130 -428 )">
+    <image preserveAspectRatio="none" style="overflow:visible" width="197" height="30" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMUAAAAeCAYAAACcwdocAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAACOSURBVHhe7dOxDYFhAEVRFEZiJAvoqdhCbRl7KJhA5BPyK9wVnFO9vP7O18fTmAEfY8z2i2kDE1FAiAJCFBCigBAFhCggRAEhCghRQIgCQhQQooAQBYQoIEQBIQoIUUCIAkIUEKKAEAWEKCBEASEKCFFAiAJ+3UUBX2Ncn8vHeb46nHbTBf/s/g7ist3cXohdE40E0Tr8AAAAAElFTkSuQmCC" x="130px" y="428px" />
+    <path d="M 326.5 428  L 326.5 455  A 2.5 2.5 0 0 1 324 457.5 L 130 457.5  " stroke-width="1" stroke="#269abc" fill="none" />
+  </g>
+</svg>
